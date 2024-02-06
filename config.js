@@ -30,7 +30,7 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = "" 
 
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰
-//Agrega el Idioma que quieres que tenga DokiBot
+//Agrega el Idioma que quieres que tenga Dinobot
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português
 //  ar = عرب 
@@ -94,27 +94,27 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'Shana'
-global.author = 'By Sopi x Daniel'
+global.packname = '🦖 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖'
+global.author = '𝘽𝙮 𝙅𝙤𝙨𝙨𝙓 🦖'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.lb = 'Shana'
+global.lb = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖'
 global.vs = '1.5.5'
-global.yt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
-global.ig = 'https://www.instagram.com/monki_bot'
-global.md = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
-global.fb = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
+global.yt = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF'
+global.ig = 'https://www.instagram.com/ancelzzz'
+global.md = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF'
+global.fb = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF'
 
-global.nna = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Actualización, información sobre el bot
-global.nn = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo 1
-global.nnn = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo 2
-global.nnnt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo del Colaboracion
-global.nnnt2 = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' // Grupo COL 2
-global.nnntt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo COL 3
-global.nnnttt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Canal MonkiBot
-global.nnntttt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo ayuda sobre el bot
-global.asistencia = 'wa.me/51906641131' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF' //Canal DinoBot
+global.nnntttt = 'https://chat.whatsapp.com/BjQoZKnzeBQG4KOkfwcBPF' //Grupo ayuda sobre el bot
+global.asistencia = 'wa.me/56986469687' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
@@ -135,8 +135,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = 'Shana'
-global.igfg = 'Shana'
+global.wm = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖'
+global.igfg = '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
