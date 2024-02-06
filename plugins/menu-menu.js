@@ -87,7 +87,7 @@ let menu = `⌜ *${wm}* ⌟
 
  ╭━〔   𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖  〕⬣
 *┃➤ 👤 Creador : JossX* 
-*┃➤ 👤 Hablar : wa.me/56986469687*
+*┃➤ 👤 Hablar: wa.me/56986469687*
 *┃➤ 🧿 IG : @ancelzzz
 *┃➤ ⌛ Tiempo activo : #uptime*
  ╰━━━━━━━━━━━━⬣
@@ -286,10 +286,10 @@ contextInfo: {
 mentionedJid: [m.sender],
 forwardingScore: 9, 
 externalAdReply: {
-title: '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖\nWʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ',
+title: '𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖\nJossX',
 //body: 'Wʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
 thumbnail: img,
-sourceUrl: 'wa.me/56986469687',
+sourceUrl: '',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
