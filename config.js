@@ -95,7 +95,7 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '🦖 𝕯𝖎𝖓𝖔𝕭𝖔𝖙 🦖'
-global.author = '𝘽𝙮 𝙅𝙤𝙨𝙨𝙓 🦖'
+global.author = '𝘽𝙮 𝙅𝙤𝙨𝙨𝙓🦖'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
